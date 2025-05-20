@@ -7,6 +7,6 @@ snipe/snipe-it:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 neosmemo/memos:stable
 --platform=linux/amd64 syncthing/syncthing:latest
---platform=linux/amd64 JumpServer/JumpServer:v4.10.1
+#--platform=linux/amd64 JumpServer/JumpServer:v4.10.1
 --platform=linux/amd64 cloudreve/cloudreve:latest
 --platform=linux/amd64 apache/superset:latest
