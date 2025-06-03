@@ -16,4 +16,4 @@ cloudreve/cloudreve:latest
 #docker.io/netboxcommunity/netbox:Version 3.3.0
 snipe/snipe-it:v8.1.5
 public.ecr.aws/gravitational/teleport-distroless-debug:17.4.8
-rustdesk/rustdesk:1.1.14
+rustdesk/rustdesk-server:1.1.14
