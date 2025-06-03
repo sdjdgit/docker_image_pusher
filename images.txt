@@ -22,3 +22,4 @@ apache/superset:4.1.2
 --platform=linux/amd64 JumpServer/JumpServer:v4.10.1
 snipe/snipe-it:v8.1.4
 gravitational/teleport:v17.4.8
+--platform=ubuntu/x86_64 rustdesk/rustdesk:1.4.0
