@@ -11,14 +11,13 @@ cloudreve/cloudreve:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 neosmemo/memos:stable
 --platform=linux/amd64 syncthing/syncthing:latest
---platform=linux/amd64 JumpServer/JumpServer:latest
 --platform=linux/amd64 apache/superset:latest
 --platform=linux/amd64 netbox-community/netbox-docker:latest
 #指定版本
 --platform=linux/amd64 cloudreve/cloudreve:3.8.3
 netbox-community/netbox-docker:Version 3.3.0
 apache/superset:4.1.2
---platform=linux/amd64 JumpServer/JumpServer:v4.10.1
+JumpServer/JumpServer:v4.10.1
 snipe/snipe-it:v8.1.4
 public.ecr.aws/gravitational/teleport-distroless-debug:17.4.8
 --platform=ubuntu/x86_64 rustdesk/rustdesk:1.4.0
