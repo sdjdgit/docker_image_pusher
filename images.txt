@@ -14,7 +14,7 @@ cloudreve/cloudreve:latest
 #指定版本
 --platform=linux/amd64 cloudreve/cloudreve:3.8.3
 #docker.io/netboxcommunity/netbox:Version 3.3.0
-JumpServer/JumpServer:v4.10.1
+#JumpServer/JumpServer:v4.10.1
 snipe/snipe-it:v8.1.4
 public.ecr.aws/gravitational/teleport-distroless-debug:17.4.8
 --platform=ubuntu/x86_64 rustdesk/rustdesk:1.4.0
