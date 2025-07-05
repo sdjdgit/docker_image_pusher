@@ -3,17 +3,17 @@ nginx
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 sqlchat/sqlchat
-alpine:latest
-b4bz/homer:latest
-cloudreve/cloudreve:latest
+alpine:v3.14.9
+b4bz/homer:v25.05.2
+#cloudreve/cloudreve:4.1.3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 neosmemo/memos:stable
---platform=linux/amd64 syncthing/syncthing:latest
---platform=linux/amd64 apache/superset:4.1.2
+--platform=linux/amd64 syncthing/syncthing:v1.30.0
+--platform=linux/amd64 apache/superset:5.0.0
 #指定版本
---platform=linux/amd64 cloudreve/cloudreve:3.8.3
+--platform=linux/amd64 cloudreve/cloudreve:4.1.3
 #docker.io/netboxcommunity/netbox:Version 3.3.0
-snipe/snipe-it:v8.1.5
-public.ecr.aws/gravitational/teleport-distroless-debug:17.4.8
+snipe/snipe-it:v8.1.7
+public.ecr.aws/gravitational/teleport-distroless-debug:v18.0.0
 rustdesk/rustdesk-server:1.1.14
