@@ -3,7 +3,7 @@ nginx
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 sqlchat/sqlchat
-alpine:v3.14.9
+alpine:latest
 b4bz/homer:v25.05.2
 #cloudreve/cloudreve:4.1.3
 #支持指定架构
